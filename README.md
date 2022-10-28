@@ -15,10 +15,6 @@ yarn serve
 yarn build
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+---------
+### 引入element ui 同款表单校验库 validator.js
+npm i validator
